@@ -1,4 +1,4 @@
-# DATA130051.01-hw1
+# hw1
 计算机视觉作业作业：构建两层神经网络分类器
 
 参数查找过程分别在<nhiddens.py>  <lamda.py>  <minibatch.py>  <learningrate.py>中
